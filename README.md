@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/be85e13f-7798-456d-957e-f8931687392e
 Mango starts where dwl ends. It keeps the lightweight, fast-build philosophy while adding the features that make a compositor actually usable day-to-day — without the bloat.
 
 - **Lightweight & fast** — as lean as dwl, no functionality compromised
-- **Excellent xwayland support** — run X11 apps without friction(Supports scale without blurring)
+- **No XWayland** — X11 apps excluded by build (`-Dxwayland=disabled`)
 - **Tags, not workspaces** — each tag maintains its own independent window layout
 - **Smooth animations** — window open/move/close, tag transitions, layer surfaces
 - **Flexible layouts** — scroller, master-stack, monocle, dwindle, grid, and more
@@ -39,6 +39,10 @@ Mango starts where dwl ends. It keeps the lightweight, fast-build philosophy whi
 - **IPC** — send/receive messages from external programs
 - **Hot-reload config** — no restart needed for keybinding changes
 - **Zero flickering** — every frame is correct
+
+## Fork Note
+
+This fork is built with XWayland disabled (`-Dxwayland=disabled`). No X11 app support is compiled in.
 
 ## Vision
 
