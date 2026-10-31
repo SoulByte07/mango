@@ -5,8 +5,8 @@
 
   <p>A fast, feature-rich Wayland compositor built on <a href="https://codeberg.org/dwl/dwl">dwl</a></p>
 
-<a href="https://github.com/mangowm/mango/stargazers"><img src="https://img.shields.io/github/stars/mangowm/mango?style=flat&color=orange" alt="Stars"/></a>
-<a href="https://github.com/mangowm/mango/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat" alt="License"/></a>
+<a href="https://github.com/soulbyte07/mango/stargazers"><img src="https://img.shields.io/github/stars/mangowm/mango?style=flat&color=orange" alt="Stars"/></a>
+<a href="https://github.com/soulbyte07/mango/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat" alt="License"/></a>
 <a href="https://repology.org/project/mangowm/versions"><img src="https://repology.org/badge/tiny-repos/mangowm.svg" alt="Packaged in"/></a>
 <a href="https://discord.gg/CPjbDxesh5"><img src="https://img.shields.io/discord/1430889676264177687?style=flat&logo=discord&label=discord" alt="Discord"/></a>
 
@@ -70,7 +70,7 @@ yay -S rofi foot xdg-desktop-portal-wlr swaybg waybar wl-clip-persist cliphist w
 ```
 - clone config
 ```
-git clone https://github.com/DreamMaoMao/mango-config.git ~/.config/mango
+git clone https://github.com/soulbyte07/mango.git ~/.config/mango
 ```
 
 ### Other distributions
@@ -80,7 +80,7 @@ See the [Installation Guide](https://mangowm.github.io/docs/installation) for Fe
 ## Documentation
 
 - **[mangowm.github.io](https://mangowm.github.io/)** — website docs with configuration reference, keybindings, layouts, IPC, and more
-- **[GitHub Wiki](https://github.com/mangowm/mango/wiki/)** — community-maintained wiki
+- **[GitHub Wiki](https://github.com/soulbyte07/mango/wiki/)** — community-maintained wiki
 
 ## Community
 
